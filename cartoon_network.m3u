@@ -1,4 +1,3 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
-
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/2NYqV0J.png" group-title="Canais | INFANTIL",Cartoon Network
+#EXTM3U
+#EXTINF:-1,Cartoon Network
 https://onplaytv.net/cartoonnetwork/tracks-v1a1/mono.ts.m3u8
